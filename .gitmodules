@@ -1,0 +1,6 @@
+[submodule "Sub.Models"]
+	path = Sub.Models
+	url = https://github.com/aliabbasvohrashub/Sub.Models.git
+[submodule "Sub.Consumer/Sub.Models"]
+	path = Sub.Consumer/Sub.Models
+	url = https://github.com/aliabbasvohrashub/Sub.Models.git
